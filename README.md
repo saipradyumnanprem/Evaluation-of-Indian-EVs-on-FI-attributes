@@ -4,6 +4,6 @@ This project is aimed at analyzing the performance of different types of vehicle
 
 Authors
 </ul>
-<li>Yaswanthraj SP</li>
-<li>Sai Pradyumnan Prem</li>
+<li><a href="https://github.com/Yaswanthraj9">Yaswanthraj SP</a></li>
+<li><a href="https://github.com/saipradyumnanprem">Sai Pradyumnan Prem</a></li>
 </ul>
